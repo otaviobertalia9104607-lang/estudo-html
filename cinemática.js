@@ -24,3 +24,7 @@ if(estado.mes === 0) {
         estado.mes = estado.mes - 1;
        }
 }
+
+cont somaMes = document.getElementById("somaMes");
+const subtraiMes = document.getElementById("subtraiMes");
+
