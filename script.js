@@ -25,7 +25,7 @@ if(estado.mes === 0) {
        }
 }
 
-cont somaMes = document.getElementById("somaMes");
+const somaMes = document.getElementById("somaMes");
 const subtraiMes = document.getElementById("subtraiMes");
 
 somaMes.addEventListener("click",proximoMes)
