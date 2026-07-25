@@ -1,7 +1,8 @@
 #somaMes{
     /* estado normal do botão */
 /*transform:scale(1);*/
-width: 10px;
+width: 30px;
+height: 30px;
 transition:transform 1s;
 
 }
