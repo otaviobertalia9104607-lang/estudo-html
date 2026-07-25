@@ -10,7 +10,7 @@ transition:transform 1s;
 
 #somaMes:active{
        /* estado active do botão*/
-transform:scale(2);
+transform:scale(1.3);
 }
 
 #subtraiMes{
@@ -25,5 +25,5 @@ transition:transform 1s;
 
 #subtraiMes:active{
        /* estado active do botão*/
-transform:scale(2);
+transform:scale(1.3);
 }
