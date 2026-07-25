@@ -1,5 +1,5 @@
 const estado ={
-    mes: new Date().getMounth(),
+    mes: new Date().getMonth(),
     ano: new Date().getFullYear()
 }
 
