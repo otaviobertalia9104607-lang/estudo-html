@@ -1,9 +1,10 @@
 #somaMes{
     /* estado normal do botão */
-transform:scale(1);
+/*transform:scale(1);*/
+transition:transform 1s;
 }
 
 #somaMes:active{
        /* estado active do botão*/
-transfom:scale(1.2);
+transform:scale(1.2);
 }
