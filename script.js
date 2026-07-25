@@ -4,7 +4,7 @@ const estado ={
 }
 
 function proximoMes() {
-
+console.log("teste");
     if(estado.mes === 11){
         //caso especial: altera o estado.ano e 0 o estado.mes
         estado.mes = 0;
@@ -29,4 +29,4 @@ const somaMes = document.getElementById("somaMes");
 const subtraiMes = document.getElementById("subtraiMes");
 
 //somaMes.addEventListener("click",proximoMes);
-  console.log("teste");
+  console.log(somaMes);
