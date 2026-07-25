@@ -12,3 +12,18 @@ transition:transform 1s;
        /* estado active do botão*/
 transform:scale(2);
 }
+
+#subtraiMes{
+    /* estado normal do botão */
+/*transform:scale(1);*/
+color: darkblue;
+width: 30px;
+height: 30px;
+transition:transform 1s;
+
+}
+
+#subtraiMes:active{
+       /* estado active do botão*/
+transform:scale(2);
+}
