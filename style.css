@@ -1,7 +1,6 @@
 #somaMes{
     /* estado normal do botão */
 /*transform:scale(1);*/
-color: blue;
 width: 30px;
 height: 30px;
 transition:transform 1s;
@@ -10,5 +9,5 @@ transition:transform 1s;
 
 #somaMes:active{
        /* estado active do botão*/
-transform:scale(1.2);
+transform:scale(2);
 }
