@@ -29,4 +29,4 @@ const somaMes = document.getElementById("somaMes");
 const subtraiMes = document.getElementById("subtraiMes");
 
 //somaMes.addEventListener("click",proximoMes);
-  console.log("somaMes");
+  console.log(somaMes);
