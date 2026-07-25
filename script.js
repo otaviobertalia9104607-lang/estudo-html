@@ -1,7 +1,6 @@
 const estado ={
-
-    mes: new Date().getMounth();
-    ano: new Date().getFullYear();
+    mes: new Date().getMounth(),
+    ano: new Date().getFullYear()
 }
 
 function proximoMes() {
